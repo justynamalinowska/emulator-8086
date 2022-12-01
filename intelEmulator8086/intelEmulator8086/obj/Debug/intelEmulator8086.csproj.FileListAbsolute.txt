@@ -1,0 +1,11 @@
+D:\Users\justyna.malinowska\source\repos\justynamalinowska\justynka\intelEmulator8086\intelEmulator8086\bin\Debug\intelEmulator8086.exe.config
+D:\Users\justyna.malinowska\source\repos\justynamalinowska\justynka\intelEmulator8086\intelEmulator8086\bin\Debug\intelEmulator8086.exe
+D:\Users\justyna.malinowska\source\repos\justynamalinowska\justynka\intelEmulator8086\intelEmulator8086\bin\Debug\intelEmulator8086.pdb
+D:\Users\justyna.malinowska\source\repos\justynamalinowska\justynka\intelEmulator8086\intelEmulator8086\obj\Debug\intelEmulator8086.csproj.AssemblyReference.cache
+D:\Users\justyna.malinowska\source\repos\justynamalinowska\justynka\intelEmulator8086\intelEmulator8086\obj\Debug\intelEmulator8086.csproj.SuggestedBindingRedirects.cache
+D:\Users\justyna.malinowska\source\repos\justynamalinowska\justynka\intelEmulator8086\intelEmulator8086\obj\Debug\intelEmulator8086.Form1.resources
+D:\Users\justyna.malinowska\source\repos\justynamalinowska\justynka\intelEmulator8086\intelEmulator8086\obj\Debug\intelEmulator8086.Properties.Resources.resources
+D:\Users\justyna.malinowska\source\repos\justynamalinowska\justynka\intelEmulator8086\intelEmulator8086\obj\Debug\intelEmulator8086.csproj.GenerateResource.cache
+D:\Users\justyna.malinowska\source\repos\justynamalinowska\justynka\intelEmulator8086\intelEmulator8086\obj\Debug\intelEmulator8086.csproj.CoreCompileInputs.cache
+D:\Users\justyna.malinowska\source\repos\justynamalinowska\justynka\intelEmulator8086\intelEmulator8086\obj\Debug\intelEmulator8086.exe
+D:\Users\justyna.malinowska\source\repos\justynamalinowska\justynka\intelEmulator8086\intelEmulator8086\obj\Debug\intelEmulator8086.pdb
