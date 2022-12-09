@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/8086/8086/bin/Debug/net6.0/8086
+/Users/justynamalinowska/Projects/8086/8086/bin/Debug/net6.0/8086.deps.json
+/Users/justynamalinowska/Projects/8086/8086/bin/Debug/net6.0/8086.runtimeconfig.json
+/Users/justynamalinowska/Projects/8086/8086/bin/Debug/net6.0/8086.dll
+/Users/justynamalinowska/Projects/8086/8086/bin/Debug/net6.0/8086.pdb
+/Users/justynamalinowska/Projects/8086/8086/obj/Debug/net6.0/8086.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/8086/8086/obj/Debug/net6.0/8086.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/8086/8086/obj/Debug/net6.0/8086.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/8086/8086/obj/Debug/net6.0/8086.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/8086/8086/obj/Debug/net6.0/8086.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/8086/8086/obj/Debug/net6.0/8086.dll
+/Users/justynamalinowska/Projects/8086/8086/obj/Debug/net6.0/refint/8086.dll
+/Users/justynamalinowska/Projects/8086/8086/obj/Debug/net6.0/8086.pdb
+/Users/justynamalinowska/Projects/8086/8086/obj/Debug/net6.0/8086.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/8086/8086/obj/Debug/net6.0/ref/8086.dll
